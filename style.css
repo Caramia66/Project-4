@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-  color: rgba(255, 255, 255, 0.7);
+  color: #d9894c;
 }
 
 .d-bloc button:hover {
@@ -653,7 +653,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
+  color: #8c8c8c !important;
 }
 
 .container {
@@ -775,7 +775,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-  background-color: #364577;
+  background-color: black;
 }
 
 .bgc-atomic-tangerine {
