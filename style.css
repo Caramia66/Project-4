@@ -639,7 +639,7 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
+/*h1,*/
 h2,
 h3,
 h4,
@@ -692,7 +692,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: white!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 1.0em;
@@ -723,11 +723,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: white!important;
 }
 
 h4 {
-    color: #333333!important;
+    color: white!important;
 }
 
 .icons {
@@ -773,7 +773,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #F0FFFF;
 }
 
 .bgc-atomic-tangerine {
@@ -781,7 +781,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: white;
 }
 
 .btn-atomic-tangerine {
@@ -795,11 +795,11 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: white!important;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: white!important;
 }
 
 .ltc-atomic-tangerine {
@@ -811,8 +811,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #364577!important;
-    border-color: #364577!important;
+    color: #F0FFFF!important;
+    border-color: #F0FFFF!important;
 }
 
 .bg-dots-bg {
@@ -824,11 +824,11 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.jpg");
+    background-image: url("img/atlanta%20made%20sign.webp");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.jpg");
+    background-image: url("img/atlanta%20made%20sign%20orange.webp");
 }
 
 @media (max-width: 1024px) {
@@ -949,10 +949,10 @@ h4 {
         border-left-color: transparent;
     }
     #hero-bloc .navbar .nav {
-        background: rgba(0, 0, 0, .8);
+        background: white;
     }
     #hero-bloc .navbar .nav a {
-        color: rgba(255, 255, 255, .6);
+        color: white;
     }
     .hero {
         padding: 50px 0;
@@ -1033,6 +1033,11 @@ h4 {
         height: 320px;
     }
 }
+
+h1 {
+    color: white!important;
+}
+
 
 @media (max-width: 400px) {
     .bloc {
