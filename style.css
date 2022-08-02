@@ -707,8 +707,10 @@ p {
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 30px;
   line-height: 1.4em;
+  text-align: center;
+  color: black;
 }
 
 h3 {
@@ -830,7 +832,7 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign-20orange {
-  background-image: url("img/atlanta%20made%20sign%20orange.webp");
+  background-image: url("atlanta-made-sign-orange.webp");
 }
 
 @media (max-width: 1024px) {
